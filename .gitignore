@@ -1,0 +1,13 @@
+# Cache files
+tests/__pycache__/
+__pycache__
+.pytest_cache
+
+# VS code settings and files
+.vscode
+
+# VectorDB (Under progress)
+db/
+
+# Environment variables
+.env
