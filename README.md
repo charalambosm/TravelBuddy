@@ -13,8 +13,8 @@ This repository contains a travel recommendation system that uses the Google Pla
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/travel-recommendation-system.git
-    cd travel-recommendation-system
+    git clone https://github.com/charalambosm/TravelBuddy.git
+    cd TravelBuddy
     ```
 
 2. **Install the required dependencies:**
