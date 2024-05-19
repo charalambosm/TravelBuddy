@@ -1,7 +1,7 @@
 # Meet your new travel buddy!
 
 ## Overview
-This repository contains a travel recommendation system that uses the Google Places API and a language model to suggest places to visit based on user queries. The system is designed to help travel agents recommend travel destinations and points of interest tailored to users' preferences and previous travel history.
+This repository contains a travel recommendation system that uses the Google Places API (exploiting Retrieval Augmented Generation) and ChatGPT to suggest places to visit based on user queries. The system is designed to help you to recommend travel destinations and points of interest tailored to users' preferences and previous travel history.
 
 ## Features
 - **Google Places Search Integration**: Utilizes the Google Places API to search for places based on user queries.
