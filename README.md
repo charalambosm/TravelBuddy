@@ -1,4 +1,4 @@
-# Travel Recommendation System
+# Meet your new travel buddy!
 
 ## Overview
 This repository contains a travel recommendation system that uses the Google Places API and a language model to suggest places to visit based on user queries. The system is designed to help travel agents recommend travel destinations and points of interest tailored to users' preferences and previous travel history.
